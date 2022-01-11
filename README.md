@@ -1,8 +1,6 @@
 # awfSite
 Static site for AddonWithFams. The server is already closed.
 
-Unarchived so I can use GitHub Page.
-
 Visit [here](https://sora-archive.github.io/awfSite/)
 
 # Languages
